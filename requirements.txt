@@ -1,4 +1,9 @@
 youtube-search-python
 telepotpro
-youtube-dl
 ffmpeg-python
+Pillow
+pytgcalls
+ffmpeg-python
+python-arq
+youtube_dl
+aiofiles
