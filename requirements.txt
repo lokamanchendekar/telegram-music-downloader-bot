@@ -1,3 +1,4 @@
 youtube-search-python
 telepotpro
 youtube-dl
+ffmpeg-python
